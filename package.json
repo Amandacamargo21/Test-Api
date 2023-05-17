@@ -15,7 +15,7 @@
     "client-install": "npm install --prefix client",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
   },
-  "author": "Carlos Bezerra",
+  "author": "Amanda Camargo",
   "license": "MIT",
   "dependencies": {
     "camelcase": "^5.3.1",
